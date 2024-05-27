@@ -1,2 +1,1 @@
-These projects are for employers who wants to have an opinion about my skillset. 
-I am always improving and i will be updating this place whenever i build a new project :)
+I'm always learning and i will keep here updated as i work through new projects :)
